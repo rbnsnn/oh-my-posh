@@ -24,7 +24,7 @@
           "foreground": "#2d3436",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "folder_icon": " \uf755 ",
+            "folder_icon": " \uf755",
             "home_icon": "\uf7dd",
             "style": "folder"
           },
@@ -43,7 +43,7 @@
           "foreground": "#011627",
           "powerline_symbol": "\ue0b0",
           "properties": {
-            "branch_icon": "\ue725 ",
+            "branch_icon": "\ueb00",
             "fetch_status": true,
             "fetch_upstream_icon": true
           },
